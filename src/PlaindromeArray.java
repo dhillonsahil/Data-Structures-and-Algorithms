@@ -16,6 +16,8 @@ public class PlaindromeArray {
     }
     if(flag==true){
         System.out.println("Plaindrome ");
+    }else{
+        System.out.println("Not Palindrome");
     }
     }
     
