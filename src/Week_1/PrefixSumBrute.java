@@ -1,3 +1,4 @@
+package Week_1;
 public class PrefixSumBrute {
     public static void main(String[] args){
         int arr[][]={
