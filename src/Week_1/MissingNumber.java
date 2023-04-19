@@ -11,3 +11,5 @@ public class MissingNumber {
         System.out.println("Missing Number is : "+missingNumber);
     }
 }
+// time complexity = O(n)
+// space complexity = O(1) constant
