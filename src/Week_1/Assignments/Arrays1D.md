@@ -43,7 +43,7 @@ public class Maximum{
     }
 }
 ```
-# Question 3 : Write a program to find the second largest element in array;
+# Question 4 : Write a program to find the second largest element in array;
 Answer :- 
 ```java
 public class SecondLargest{
