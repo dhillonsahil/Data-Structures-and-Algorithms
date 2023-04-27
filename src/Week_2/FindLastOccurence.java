@@ -1,4 +1,4 @@
-package Week_2.Assignment;
+package Week_2;
 
 import java.util.*;
 public class FindLastOccurence {

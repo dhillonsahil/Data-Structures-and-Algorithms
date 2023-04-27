@@ -1,4 +1,4 @@
-package Week_2.Assignment;
+package Week_2;
 
 public class Count {
     public static void main(String[] args) {
