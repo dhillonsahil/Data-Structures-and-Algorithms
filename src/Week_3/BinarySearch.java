@@ -1,5 +1,5 @@
 package Week_3;
-public class BnarySearch {
+public class BinarySearch {
     public static void main(String[] args) {
         int []arr = {2,4,8,10,12};
         int target=10;
