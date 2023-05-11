@@ -11,9 +11,9 @@ public class Question2 {
             return 0;
         }else {
             if(n%2==0){
-                return  -n + sumAlternateSign(--n) ;
+                return  -n + sumAlternateSign(n-1) ;
             }else{
-                return n + sumAlternateSign(--n) ; 
+                return n + sumAlternateSign(n-1) ; 
             }
         }
     }

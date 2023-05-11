@@ -9,7 +9,7 @@ public class MissingNumber2 {
         int total =1;
         for(int i=2;i<=n+1;i++){
             total+=i;
-            total-=total=arr[i-2];
+            total-=arr[i-2];
         }return total;
     }
 }
