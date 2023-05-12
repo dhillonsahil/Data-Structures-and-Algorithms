@@ -1,3 +1,4 @@
+package Week_3;
 class Summation {
     public static void main(String[] args) {
         int result=sum(4,1);
