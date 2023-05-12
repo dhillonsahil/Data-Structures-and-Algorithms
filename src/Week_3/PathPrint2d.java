@@ -1,3 +1,4 @@
+package Week_3;
 public class PathPrint2d {
     public static void main(String[] args) {
         int dest[]={2,2};
