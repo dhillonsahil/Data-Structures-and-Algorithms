@@ -1,6 +1,6 @@
 package Week_3;
 
-public class Question2 {
+public class AlternateSign {
     public static void main(String[] args) {
         int n=10;
         int result=sumAlternateSign(n);
