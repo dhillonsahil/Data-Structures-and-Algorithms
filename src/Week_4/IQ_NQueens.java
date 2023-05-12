@@ -19,8 +19,8 @@ public class IQ_NQueens {
     }
 
     public static boolean isSafe(char board[][] , int row,int column){
-        // check vertical up
-        for(int i=row-1;i>=0;i--){
+        // check row
+        for(int i=0;i>=0;i--){
             if(board[i][column]=='Q'){
                 return false;
             }
