@@ -1,3 +1,4 @@
+package Week_3;
 public class Multiple{
     public static void main(String[] args) {
         int a=4;
