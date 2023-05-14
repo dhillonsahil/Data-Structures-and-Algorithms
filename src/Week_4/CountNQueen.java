@@ -1,7 +1,8 @@
+package Week_4;
 public class CountNQueen{
     static int count=0;
     public static void main(String[] args) {
-        int n = 5;
+        int n = 8;
         char board[][]= new char[n][n];
 
         // initlialzie
