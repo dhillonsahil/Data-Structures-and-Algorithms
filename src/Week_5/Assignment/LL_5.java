@@ -44,7 +44,7 @@ public class LL_5 {
         int num3=num1+num2;
         int digits =(int)Math.log10(num3)+1;
         int count=0;
-        Node temp=l3.head;
+        // Node temp=l3.head;
         String s=""+num3;
         String[] a= s.split("");
         // here is the issue

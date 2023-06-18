@@ -1,5 +1,4 @@
 package Week_5;
-import Week_5.*;
 
 public class ReverseLinkedList {
     public static void main(String[] args) {
