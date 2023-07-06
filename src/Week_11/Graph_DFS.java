@@ -9,6 +9,7 @@ public class Graph_DFS {
         gph.addEdge(0, 1);
         gph.addEdge(0, 2);
         gph.addEdge(1,2 );
+        gph.addEdge(1,0 );
         gph.addEdge(2, 0);
         gph.addEdge(2, 3);
         gph.addEdge(3, 3);
