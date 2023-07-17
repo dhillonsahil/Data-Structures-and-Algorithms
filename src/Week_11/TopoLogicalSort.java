@@ -1,11 +1,11 @@
 package Week_11;
 import java.util.*;
 
-class Graph {
+class Graph_2 {
     private int V; // number of vertices
     private LinkedList<Integer>[] adj; // adjacency list
 
-    public Graph(int V) {
+    public Graph_2(int V) {
         this.V = V;
         adj = new LinkedList[V];
         for (int i = 0; i < V; i++) {
@@ -52,7 +52,7 @@ class Graph {
 public class TopoLogicalSort {
     public static void main(String[] args) {
         int V = 6;
-        Graph graph = new Graph(V);
+        Graph_2 graph = new Graph_2(V);
 
         // Add edges
         graph.addEdge(5, 2);
